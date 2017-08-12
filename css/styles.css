@@ -61,6 +61,10 @@ body {
     font-weight: 300;
 }
 
+hr {
+    height: 5px;
+    background-color: #7d97ad;
+}
 .title-text {
     color: #2d3c49;
     font-weight: 100;
@@ -114,16 +118,16 @@ body {
     padding: 10px;
 }
 
-.vertical-top{
+.vertical-top {
     vertical-align: top;
 }
 
-.picture-text{
+.picture-text {
     vertical-align:middle;
     width:100%;
     font-size:25px;
 }
 
-.picture-url{
+.picture-url {
     width: 100%;
 }
